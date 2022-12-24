@@ -7,6 +7,11 @@
 
 # Creating a Simple Web App with FastAPI!
 
+## Objectives
+- Interact with the Hugging Face API
+- Build a simple web app using Fast API
+- Create an API endpoint for your selected pre-trained model
+
 You'll notice that in this folder, we don't have a whole lot. Just a single directory called `app` with an `app.py` and a `model` directory with our saved model. 
 
 Let's check out the `app.py` file. 

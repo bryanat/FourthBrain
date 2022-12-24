@@ -1,5 +1,9 @@
+# scratchwork
+untracked/
+
 # Personal weekly list of 4th todos
 TODO.md
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -130,3 +134,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# HF saved model
+*.bin
