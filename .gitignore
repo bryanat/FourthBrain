@@ -135,5 +135,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# HF saved model
+# binary files like HF saved model
 *.bin
