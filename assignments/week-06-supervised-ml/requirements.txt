@@ -9,3 +9,4 @@ shap
 streamlit==1.11.1
 pandas-profiling
 tpot
+ipywidgets
